@@ -14,13 +14,22 @@
 ## Task 2: Variable and expression modules
 
 ### Acceptance Criteria
-- [ ] Variable module demonstrates int, float, bool, str literal types
-- [ ] Variable module shows type() returns the class of each literal
-- [ ] Variable module demonstrates isinstance() checks
-- [ ] Variable module shows integer literal bases (decimal, hex, octal, binary)
-- [ ] Variable module demonstrates underscores in numeric literals
-- [ ] Variable module shows None literal and type(None)
-- [ ] Expression module shows basic arithmetic operations (+, -, *, /)
-- [ ] Expression module demonstrates integer division (//) vs float division (/)
-- [ ] Expression module shows exponentiation (**)
-- [ ] Expression module demonstrates chaining expressions
+- [x] Variable module demonstrates int, float, bool, str literal types
+- [x] Variable module shows type() returns the class of each literal
+- [x] Variable module demonstrates isinstance() checks
+- [x] Variable module shows integer literal bases (decimal, hex, octal, binary)
+- [x] Variable module demonstrates underscores in numeric literals
+- [x] Variable module shows None literal and type(None)
+- [x] Expression module shows basic arithmetic operations (+, -, *, /)
+- [x] Expression module demonstrates integer division (//) vs float division (/)
+- [x] Expression module shows exponentiation (**)
+- [x] Expression module demonstrates chaining expressions
+
+## Task 3: Bitwise operations module
+
+### Acceptance Criteria
+- [ ] Module demonstrates bitwise AND (&), OR (|), XOR (^) operators
+- [ ] Module demonstrates bitwise NOT (~) operator
+- [ ] Module demonstrates left shift (<<) and right shift (>>) operators
+- [ ] Module shows binary representation with bin() function
+- [ ] Module demonstrates practical examples of bit manipulation

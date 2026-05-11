@@ -5,8 +5,8 @@ Build the study guide incrementally by category, starting with foundational synt
 
 ## Tasks
 - [x] Task 1: Create the runner that discovers and executes all modules with `main()` functions (runner + package init)
-- [>] Task 2: Implement variable and expression modules demonstrating Python literals, types, and numeric operations (syntax/variable + syntax/expression)
-- [ ] Task 3: Implement bitwise operations module showing bitwise operators and binary representations (syntax/bitwise)
+- [x] Task 2: Implement variable and expression modules demonstrating Python literals, types, and numeric operations (syntax/variable + syntax/expression)
+- [>] Task 3: Implement bitwise operations module showing bitwise operators and binary representations (syntax/bitwise)
 - [ ] Task 4: Implement conditional and loop modules showing if/elif/else statements and for/while loops (syntax/conditional + syntax/loop)
 - [ ] Task 5: Implement function module demonstrating def, lambda, and higher-order functions (syntax/function)
 - [ ] Task 6: Implement walrus operator and argument enforcement modules for assignment expressions and positional/keyword-only params (syntax/walrus_operator + syntax/arg_enforcement)

@@ -28,8 +28,22 @@
 ## Task 3: Bitwise operations module
 
 ### Acceptance Criteria
-- [ ] Module demonstrates bitwise AND (&), OR (|), XOR (^) operators
-- [ ] Module demonstrates bitwise NOT (~) operator
-- [ ] Module demonstrates left shift (<<) and right shift (>>) operators
-- [ ] Module shows binary representation with bin() function
-- [ ] Module demonstrates practical examples of bit manipulation
+- [x] Module demonstrates bitwise AND (&), OR (|), XOR (^) operators
+- [x] Module demonstrates bitwise NOT (~) operator
+- [x] Module demonstrates left shift (<<) and right shift (>>) operators
+- [x] Module shows binary representation with bin() function
+- [x] Module demonstrates practical examples of bit manipulation
+
+## Task 4: Conditional and loop modules
+
+### Acceptance Criteria
+- [ ] Conditional module demonstrates if statements
+- [ ] Conditional module demonstrates if-else statements
+- [ ] Conditional module demonstrates if-elif-else chains
+- [ ] Conditional module shows comparison operators (==, !=, <, >, <=, >=)
+- [ ] Conditional module demonstrates logical operators (and, or, not)
+- [ ] Loop module demonstrates for loops with range()
+- [ ] Loop module demonstrates for loops over sequences
+- [ ] Loop module demonstrates while loops
+- [ ] Loop module shows break and continue statements
+- [ ] Loop module demonstrates enumerate() and zip()

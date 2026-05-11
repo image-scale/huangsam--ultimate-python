@@ -13,3 +13,10 @@
 **Commit**: Add modules demonstrating Python variables and expressions
 **Acceptance**: 10/10 criteria met
 **Verification**: tests FAIL on previous state, PASS on current state
+
+## Round 3
+**Task**: Task 3 — Implement bitwise operations module
+**Files created**: pyguide/syntax/bitwise.py, tests/test_bitwise.py
+**Commit**: Add a module demonstrating Python bitwise operators
+**Acceptance**: 5/5 criteria met
+**Verification**: tests FAIL on previous state, PASS on current state
